@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <%= erb :_welcome, :layout => false %>
+  <Say voice="woman">Press Star for the Next Caller</Say>
+  <Pause length="1"/>
+  <Dial hangupOnStar="true" action="roulette.xml">
+    <Queue url="about_to_connect.xml">roulette</Queue>
+  </Dial>
+</Response>
