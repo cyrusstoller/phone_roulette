@@ -5,7 +5,7 @@ and this seemed like a quick and easy application to make.
 
 Call (480) 878-7813 and you'll randomly be connected with anyone else who is currently calling the same number.
 
-If you're interested in a more detailed write-up, click [here](http://www.cyrusstoller.com/2013/09/09/phone-roulette-with-twilio/).
+If you're interested in a more detailed write-up, click [here](http://www.cyrusstoller.com/2013/09/09/phone-roulette-with-twilio-and-sinatra/).
 
 ## To start the server in development
 ```
