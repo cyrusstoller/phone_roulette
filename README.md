@@ -16,3 +16,7 @@ $> shotgun config.ru
 ```
 TWILIO_PHONE_NUMBER= "(xxx) yyy-zzzz"
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/cyrusstoller/phone_roulette/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
